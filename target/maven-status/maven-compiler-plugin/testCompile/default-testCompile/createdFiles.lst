@@ -1,0 +1,12 @@
+com\dnb\logger\service\LogFilesReaderTest.class
+com\dnb\logger\utils\FileResourcesUtilsTest.class
+com\dnb\logger\service\LogReaderTest.class
+com\dnb\logger\cache\XmlSchemaCacheTest.class
+com\dnb\logger\testutils\Constants.class
+com\dnb\logger\utils\DateUtilsTest.class
+com\dnb\logger\service\JsonReaderTest.class
+com\dnb\logger\service\XmlReaderTest.class
+com\dnb\logger\cache\ActivitiesCacheTest.class
+com\dnb\logger\testutils\CommonMethods.class
+com\dnb\logger\LoggerAppDnBTest.class
+com\dnb\logger\service\LogWriterTest.class

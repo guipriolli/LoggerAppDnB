@@ -1,0 +1,12 @@
+com\dnb\logger\service\LogReader.class
+com\dnb\logger\model\Log$LogBuilder.class
+com\dnb\logger\service\XmlReader.class
+com\dnb\logger\service\JsonReader.class
+com\dnb\logger\cache\ActivitiesCache.class
+com\dnb\logger\service\LogFilesReader.class
+com\dnb\logger\utils\FileResourcesUtils.class
+com\dnb\logger\service\LogWriter.class
+com\dnb\logger\utils\DateUtils.class
+com\dnb\logger\cache\XmlSchemaCache.class
+com\dnb\logger\model\Log.class
+com\dnb\logger\LoggerAppDnB.class
