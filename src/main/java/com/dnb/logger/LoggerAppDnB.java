@@ -6,7 +6,6 @@ import com.dnb.logger.service.LogWriter;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
-import java.io.IOException;
 import java.util.List;
 
 public class LoggerAppDnB {
